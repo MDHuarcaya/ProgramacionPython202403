@@ -1,7 +1,6 @@
 # Las listas son colecciones de datos
 
 
-
 x = 5
 
 # Le corresponde el tipo de dato "list"
